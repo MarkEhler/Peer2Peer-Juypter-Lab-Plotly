@@ -17,4 +17,4 @@ Pokemon.csv dataset file
 
 Slideshow intedned to facilitate active learning.
 
-https://www.linkedin.com/in/mark-ehler-85052548/
+Connect - https://www.linkedin.com/in/mark-ehler-85052548/
